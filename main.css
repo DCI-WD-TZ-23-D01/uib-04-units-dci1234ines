@@ -37,3 +37,9 @@
             font-size: 100%; /* 100% of the font size of the root element (body) */
         }
 
+     .orange-box {
+    width: 80vw;
+    height: 50vh;
+    background-color: orange;
+    }
+
