@@ -21,7 +21,7 @@
         }
  .lightblue-section {
             background-color: lightblue;
-            padding: 20px;
+            font-size: 32px;
         }
 
         .lightblue-section p:nth-child(1) {
@@ -29,12 +29,12 @@
         }
 
         .lightblue-section p:nth-child(2) {
-            font-size: 100%; /* 100% of the font size of the parent (.lightblue-section) */
-        }
+            font-size: 1rem;
+       }
 
         .lightblue-section p:nth-child(3) {
-            font-size: 100%; /* 100% of the font size of the root element (body) */
-        }
+            font-size: 1rem;
+       }
 
      .orange-box {
     width: 80vw;
