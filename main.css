@@ -1,3 +1,22 @@
  header h1 {
             font-size: 20vw; /* Schriftgröße 20% der Breite des Ansichtsfensters */
-            height: 100vh;   /* Höhe 100% der Ansichtsfensterhöhe */
+            height: 100vh; /* Höhe 100% der Ansichtsfensterhöhe */
+       }
+.pink-section {
+            background-color: pink;
+            width: 50%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .pink-section p:nth-child(1) {
+            font-size: 18px;
+        }
+
+        .pink-section p:nth-child(2) {
+            font-size: 3vw; /* 3% of the viewport width */
+        }
+
+        .pink-section p:nth-child(3) {
+            font-size: 5vh; /* 5% of the viewport height */
+        }
