@@ -1,8 +1,8 @@
- header h1 {
+   h1 {
             font-size: 20vw; /* Schriftgröße 20% der Breite des Ansichtsfensters */
             height: 100vh; /* Höhe 100% der Ansichtsfensterhöhe */
        }
-.pink-section {
+  .pink-section {
             background-color: pink;
             width: 50%;
             
